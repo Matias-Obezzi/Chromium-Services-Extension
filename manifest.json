@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "SERVICIOS by MO-Servicios",
     "version": "1.0",
-    "description": "Ve el clima de tu ubicacion ip y consulta datos de tu ip",
+    "description": "Ve el clima y consulta datos de tu ip",
     "author": "MO-Servicios",
     "icons": {
         "16": "media/icon16.png",
